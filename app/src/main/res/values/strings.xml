@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="question1">Baseball is fun</string>
+    <string name="question2">Coding is hard</string>
+    <string name="question3">School is interesting</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct">Correct!</string>
+    <string name="incorrect">Incorrect</string>
+    <string name="next">Next</string>
+    <string name="question_text_view">Question</string>
+</resources>
